@@ -4,7 +4,7 @@
         id="com.claytonlopes.softkeyboard"
         version="1.1">
 
-  <name>SoftKeyboard (EditTextView)</name>
+  <name>SoftKeyboard (TextView)</name>
   <description>Android SoftKeyboard</description>
   <license>MIT</license>
   <author>Clayton Lopes</author>
